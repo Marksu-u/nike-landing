@@ -48,7 +48,7 @@ const Footer = () => {
         <SocialIcon href="#"><Instagram /></SocialIcon>
       </SocialIcons>
       <BottomBar>
-        <Copyright>© 2023 Nike, Inc. All Rights Reserved</Copyright>
+        <Copyright>© 2024 Nike, Inc. All Rights Reserved</Copyright>
         <LegalLinks>
           <LegalLink href="#">Guides</LegalLink>
           <LegalLink href="#">Terms of Sale</LegalLink>
